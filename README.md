@@ -1,3 +1,2 @@
-# project-1
+# project
 
-this is for fun
